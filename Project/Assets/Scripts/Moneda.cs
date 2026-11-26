@@ -2,17 +2,23 @@ using UnityEngine;
 
 public class Moneda : MonoBehaviour
 {
-    // Se ejecuta automáticamente cuando otro Collider2D entra en contacto con este Trigger
-    private void OnTriggerEnter2D(Collider2D collision)
-    {
-        // Verifica si el objeto que tocó la moneda tiene el Tag "Player"
-        if (collision.CompareTag("Player"))
-        {
-            // Aquí puedes agregar lógica adicional (sumar puntaje, reproducir sonido, etc.)
-            Debug.Log("¡Moneda recogida!");
+    [SerializeField] private AudioClip sonidoRecoger;
+    [SerializeField] private float volumen = 0.8f;
 
-            // Destruye este objeto moneda de la escena
-            Destroy(gameObject);
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (!other.CompareTag("Player")) return;
+
+        if (sonidoRecoger != null)
+        {
+            AudioSource.PlayClipAtPoint(sonidoRecoger, transform.position, volumen);
         }
+
+        if (GameManager.Instancia != null)
+        {
+            GameManager.Instancia.SumarMoneda();
+        }
+
+        Destroy(gameObject);
     }
 }

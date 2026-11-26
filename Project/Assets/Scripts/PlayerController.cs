@@ -3,14 +3,18 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
     [Header("Movimiento y Animación")]
-    public float velocidad = 5f;
-    public Animator animator;
+    [SerializeField] private float velocidad = 5f;
+    [SerializeField] private Animator animator;
 
     [Header("Configuración de Salto")]
-    public float fuerzaSalto = 10f;
-    public float distanciaLineaSuelo = 2.4f;
-    public LayerMask capaSuelo;
-    public bool tocandoElSuelo = false;
+    [SerializeField] private float fuerzaSalto = 10f;
+    [SerializeField] private float distanciaLineaSuelo = 2.4f;
+    [SerializeField] private LayerMask capaSuelo;
+    [SerializeField] private bool tocandoElSuelo = false;
+
+    [Header("Audio")]
+    [SerializeField] private AudioSource audioSource;
+    [SerializeField] private AudioClip sonidoSalto;
 
     private Rigidbody2D rb;
 
@@ -43,6 +47,11 @@ public class PlayerController : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Space) && tocandoElSuelo)
         {
             rb.AddForce(new Vector2(0, fuerzaSalto), ForceMode2D.Impulse);
+
+            if (audioSource != null && sonidoSalto != null)
+            {
+                audioSource.PlayOneShot(sonidoSalto);
+            }
         }
 
         // --- 3. ACTUALIZAR PARÁMETROS DEL ANIMATOR ---

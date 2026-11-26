@@ -140,3 +140,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 851bb590c7a70eb49ab56c3ca73fa737, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
+  sonidoRecoger: {fileID: 8300000, guid: 4e18dd5d63eeb5d46b48693f5dc2b80f, type: 3}
+  volumen: 0.8
