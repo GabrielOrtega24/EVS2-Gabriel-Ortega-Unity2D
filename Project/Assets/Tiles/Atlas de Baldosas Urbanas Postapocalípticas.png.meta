@@ -1,0 +1,602 @@
+fileFormatVersion: 2
+guid: 7e9e391e479224f4380e4d4a88498fca
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Atlas de Baldosas Urbanas Postapocal\xEDpticas_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 635
+        width: 470
+        height: 389
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8270d4008830274d9c63f8415b485ae
+      internalID: -2002873450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Atlas de Baldosas Urbanas Postapocal\xEDpticas_1"
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 633
+        width: 275
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21c7057386756343b0b293c9ed11360
+      internalID: 1518678622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Atlas de Baldosas Urbanas Postapocal\xEDpticas_2"
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 208
+        width: 265
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebc3d34dd18fe6409af20cb32992d10
+      internalID: 214365552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Atlas de Baldosas Urbanas Postapocal\xEDpticas_3"
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 636
+        width: 446
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98977863d526eaf41a2d156227aa67a9
+      internalID: -847338649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Atlas de Baldosas Urbanas Postapocal\xEDpticas_4"
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 631
+        width: 167
+        height: 393
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12869025f91a51d44af2e5b61782cdd1
+      internalID: -2009126233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Atlas de Baldosas Urbanas Postapocal\xEDpticas_5"
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 440
+        width: 247
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d4a2e80c450664f9e93d8d8ca38871
+      internalID: 1410087034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Atlas de Baldosas Urbanas Postapocal\xEDpticas_6"
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 431
+        width: 137
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acde5905f002d444b9e98dd9c9ae930b
+      internalID: 1822322902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Atlas de Baldosas Urbanas Postapocal\xEDpticas_7"
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 436
+        width: 363
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3242edb1ad9be6e4abd82df4bc64e5f8
+      internalID: -2098311252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Atlas de Baldosas Urbanas Postapocal\xEDpticas_8"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 439
+        width: 243
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cecd4b63151813b4fb687f2b73a5cc9f
+      internalID: -469496503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Atlas de Baldosas Urbanas Postapocal\xEDpticas_9"
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 211
+        width: 247
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41868c79fbde68244b183248084b0361
+      internalID: 1552947919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Atlas de Baldosas Urbanas Postapocal\xEDpticas_10"
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 430
+        width: 263
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0188fa534ca81874abb1e4a4daa134c6
+      internalID: 2126316043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Atlas de Baldosas Urbanas Postapocal\xEDpticas_11"
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 430
+        width: 215
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42432a935247b9246a621c05f620866b
+      internalID: -80867920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Atlas de Baldosas Urbanas Postapocal\xEDpticas_12"
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 193
+        width: 275
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc4165441b56e04e9e85e11eb75f345
+      internalID: -484562826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Atlas de Baldosas Urbanas Postapocal\xEDpticas_13"
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 183
+        width: 314
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdfa28bd0813c484bbe2d8c321c24ed2
+      internalID: 1672399258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Atlas de Baldosas Urbanas Postapocal\xEDpticas_14"
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 205
+        width: 181
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c83518a1cbe5804a88f2554d28ee316
+      internalID: 1722954072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Atlas de Baldosas Urbanas Postapocal\xEDpticas_15"
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1
+        width: 463
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a30059d641f324e9706b69cccea765
+      internalID: 2115803701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Atlas de Baldosas Urbanas Postapocal\xEDpticas_16"
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 216
+        width: 159
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c730cc52c33c94aac088280761eeb5
+      internalID: -506630304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Atlas de Baldosas Urbanas Postapocal\xEDpticas_17"
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 16
+        width: 270
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217439cf4150a9f4ea28a4bc4158909b
+      internalID: -1130124100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Atlas de Baldosas Urbanas Postapocal\xEDpticas_18"
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 26
+        width: 240
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0f5f5a7aaec354f838840cb8700e3b
+      internalID: -843994918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Atlas de Baldosas Urbanas Postapocal\xEDpticas_19"
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 634
+        width: 134
+        height: 379
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1dc2d6289d029478c16a75f3cc841e
+      internalID: -2068055460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Atlas de Baldosas Urbanas Postapocal\xEDpticas_20"
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 37
+        width: 326
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d45c806cce90b147a99b6dc5ff169bc
+      internalID: 495746042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 35a1716f8801a23478ba6efee6c3d67d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":7.0,"y":3.0},"gridSpriteSize":{"x":219.0,"y":341.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      "Atlas de Baldosas Urbanas Postapocal\xEDpticas_0": -2002873450
+      "Atlas de Baldosas Urbanas Postapocal\xEDpticas_1": 1518678622
+      "Atlas de Baldosas Urbanas Postapocal\xEDpticas_10": 2126316043
+      "Atlas de Baldosas Urbanas Postapocal\xEDpticas_11": -80867920
+      "Atlas de Baldosas Urbanas Postapocal\xEDpticas_12": -484562826
+      "Atlas de Baldosas Urbanas Postapocal\xEDpticas_13": 1672399258
+      "Atlas de Baldosas Urbanas Postapocal\xEDpticas_14": 1722954072
+      "Atlas de Baldosas Urbanas Postapocal\xEDpticas_15": 2115803701
+      "Atlas de Baldosas Urbanas Postapocal\xEDpticas_16": -506630304
+      "Atlas de Baldosas Urbanas Postapocal\xEDpticas_17": -1130124100
+      "Atlas de Baldosas Urbanas Postapocal\xEDpticas_18": -843994918
+      "Atlas de Baldosas Urbanas Postapocal\xEDpticas_19": -2068055460
+      "Atlas de Baldosas Urbanas Postapocal\xEDpticas_2": 214365552
+      "Atlas de Baldosas Urbanas Postapocal\xEDpticas_20": 495746042
+      "Atlas de Baldosas Urbanas Postapocal\xEDpticas_3": -847338649
+      "Atlas de Baldosas Urbanas Postapocal\xEDpticas_4": -2009126233
+      "Atlas de Baldosas Urbanas Postapocal\xEDpticas_5": 1410087034
+      "Atlas de Baldosas Urbanas Postapocal\xEDpticas_6": 1822322902
+      "Atlas de Baldosas Urbanas Postapocal\xEDpticas_7": -2098311252
+      "Atlas de Baldosas Urbanas Postapocal\xEDpticas_8": -469496503
+      "Atlas de Baldosas Urbanas Postapocal\xEDpticas_9": 1552947919
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
